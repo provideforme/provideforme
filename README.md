@@ -16,7 +16,7 @@
   
 
 - 📫  How to reach me: 
-[E-mail](evan.a.bernard@gmail.com) || [Dev Portfolio](https://www.evanabernard.com/)  
+evan.a.bernard@gmail.com || [Dev Portfolio](https://www.evanabernard.com/)  
   
 
 <br/>  
