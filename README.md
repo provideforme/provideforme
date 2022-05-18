@@ -21,8 +21,8 @@
 
 <br/>  
 
-![top-langs](https://github-readme-stats.vercel.app/api?username=provideforme&show_icons=true&count_private=true&hide_border=true)
-![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=provideforme&hide_border=true&layout=compact)
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=provideforme&hide_border=true&layout=compact)
+![github stats](https://github-readme-stats.vercel.app/api?username=provideforme&show_icons=true&count_private=true&hide_border=true)
 
 <br/>
 
